@@ -1,0 +1,277 @@
+[
+  {
+    "nombreDificultad": "Super Easy",
+    "preguntas": [
+      {
+        "enunciado": "¿Cuál es el cromosoma que determina el sexo masculino?",
+        "respuestas": [
+          { "texto": "V" },
+          { "texto": "X" },
+          { "texto": "Y" },
+          { "texto": "Z" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "El Sol está compuesto principalmente por:",
+        "respuestas": [
+          { "texto": "Hierro y níquel" },
+          { "texto": "Fotones y neutrones" },
+          { "texto": "Luz y energía" },
+          { "texto": "Hidrógeno y helio" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "¿Cuál es el planeta más grande del sistema solar ?",
+        "respuestas": [
+          { "texto": "Júpiter" },
+          { "texto": "Saturno" },
+          { "texto": "Urano" },
+          { "texto": "Neptuno" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Dónde se encuentra Machu Picchu?",
+        "respuestas": [
+          { "texto": "México" },
+          { "texto": "Perú" },
+          { "texto": "Colombia" },
+          { "texto": "Brasil" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "La moneda oficial de Japón es:",
+        "respuestas": [
+          { "texto": "Yan" },
+          { "texto": "Yen" },
+          { "texto": "Yin" },
+          { "texto": "Yon" }
+        ],
+        "respuestaCorrecta": 1
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Easy",
+    "preguntas": [
+      {
+        "enunciado": "¿Cuál es el país más grande del mundo?",
+        "respuestas": [
+          { "texto": "China" },
+          { "texto": "Rusia" },
+          { "texto": "Estados Unidos" },
+          { "texto": "Costa Rica" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Cuántos decimales tiene el número pi π?",
+        "respuestas": [
+          { "texto": "Dos" },
+          { "texto": "Catorce" },
+          { "texto": "Ninguno" },
+          { "texto": "Infinitos" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "¿Cuándo se inició la Primera Guerra Mundial?",
+        "respuestas": [
+          { "texto": "28 de julio de 1914" },
+          { "texto": "11 de noviembre 1918" },
+          { "texto": "28 de junio 1919" },
+          { "texto": "15 de septiembre de 1945" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Quién disparó al señor Burns en Los Simpson?",
+        "respuestas": [
+          { "texto": "Homero" },
+          { "texto": "Bart" },
+          { "texto": "Maggie" },
+          { "texto": "Apu" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "En El asombroso mundo de Gumball, ¿qué es Gumball?",
+        "respuestas": [
+          { "texto": "Un gato" },
+          { "texto": "Un extraterrestre" },
+          { "texto": "Un león" },
+          { "texto": "Un pez" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Medium",
+    "preguntas": [
+      {
+        "enunciado": "¿Cuánto tiempo tarda la luz del Sol en llegar a la Tierra?",
+        "respuestas": [
+          { "texto": "12 horas" },
+          { "texto": "1 día" },
+          { "texto": "8 minutos" },
+          { "texto": "8 segundos" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "¿Qué son los Jóvenes Titanes?",
+        "respuestas": [
+          { "texto": "Animales" },
+          { "texto": "Superhéroes" },
+          { "texto": "Extraterrestres" },
+          { "texto": "Vagabundos" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Cuál es el océano más grande?",
+        "respuestas": [
+          { "texto": "El Océano Pacífico" },
+          { "texto": "El Océano Atlántico" },
+          { "texto": "El Océano Índico" },
+          { "texto": "El Océano Grande" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿En qué se especializa la cartografía?",
+        "respuestas": [
+          { "texto": "Entregar cartas" },
+          { "texto": "Crear cajas" },
+          { "texto": "Tejer" },
+          { "texto": "Estudiar mapas" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "¿Qué país tiene forma de bota?",
+        "respuestas": [
+          { "texto": "Reino Unido" },
+          { "texto": "Nueva Zelanda" },
+          { "texto": "Italia" },
+          { "texto": "España" }
+        ],
+        "respuestaCorrecta": 2
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Hard",
+    "preguntas": [
+      {
+        "enunciado": "¿Cuántas patas tiene la araña?",
+        "respuestas": [
+          { "texto": "6" },
+          { "texto": "8" },
+          { "texto": "10" },
+          { "texto": "12" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿En qué país se encuentra el Taj Mahal?",
+        "respuestas": [
+          { "texto": "India" },
+          { "texto": "Perú" },
+          { "texto": "China" },
+          { "texto": "Nigeria" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Cuál es el primero de la lista de los números primos?",
+        "respuestas": [
+          { "texto": "1" },
+          { "texto": "3" },
+          { "texto": "2" },
+          { "texto": "4" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "¿Quién ganó el mundial de 2014?",
+        "respuestas": [
+          { "texto": "España" },
+          { "texto": "Italia" },
+          { "texto": "Francia" },
+          { "texto": "Brasil" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "¿Cuántos años tiene un lustro?",
+        "respuestas": [
+          { "texto": "5 años" },
+          { "texto": "100 años" },
+          { "texto": "50 años" },
+          { "texto": "500 años" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Extra Hard",
+    "preguntas": [
+      {
+        "enunciado": "¿Cuántos videojuegos de Mario Party se lanzaron para la Nintendo 64?",
+        "respuestas": [
+          { "texto": "1" },
+          { "texto": "3" },
+          { "texto": "2" },
+          { "texto": "4" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Quién es el padre de Zeus en la mitología griega?",
+        "respuestas": [
+          { "texto": "Perseo" },
+          { "texto": "Hércules" },
+          { "texto": "Crono" },
+          { "texto": "Heracles" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "¿En cuál videojuego se puede usar una pistola de gravedad?",
+        "respuestas": [
+          { "texto": "BioShock" },
+          { "texto": "GTA IV" },
+          { "texto": "Halo 3" },
+          { "texto": "Half-Life 2" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "¿Qué tipo de medio digital usa la extensión de archivo .mov?",
+        "respuestas": [
+          { "texto": "Video" },
+          { "texto": "Audio" },
+          { "texto": "Texto" },
+          { "texto": "Imagen" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿A qué parte del barco hace referencia el término náutico 'estribor'?",
+        "respuestas": [
+          { "texto": "Al frente" },
+          { "texto": "Detrás" },
+          { "texto": "A la izquierda" },
+          { "texto": "A la derecha" }
+        ],
+        "respuestaCorrecta": 3
+      }
+    ]
+  }
+]
